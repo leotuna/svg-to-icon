@@ -1,0 +1,17 @@
+{
+  "name": "svg-to-icon",
+  "version": "1.0.0",
+  "description": "Transform SVGs to icons with css class names.",
+  "author": "Leonardo Tuna",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "fantasticon": "^1.2.3",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
